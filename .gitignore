@@ -33,3 +33,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Ignore all .history files
+*.history
+
+# Ignore .env_*.history files
+.env_*.history
